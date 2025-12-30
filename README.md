@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @GitArya09
-- 👀 I’m interested in Learning
-- 🌱 I’m currently learning Iot,Cybersecurity including blockchain tech.
-- 💞️ I’m 19 year old in Second year B.tech
-- 📫 How to reach me ...aryakhobragade12@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...I am Interested in learning no matters what just what someones approch
+# Hi, I'm <Your Name>
+
+## 👋 About Me
+- Cybersecurity professional focused on OSINT, malware analysis, and automation
+- Experienced with Python, Linux, and security tooling
+- Interested in threat intelligence and defensive research
+
+## 🛠 Skills
+- Programming: Python, Bash
+- Security: OSINT, Malware Analysis, Network Security
+- Tools: Wireshark, Burp Suite, Nmap, Metasploit
+
+## 📂 Featured Projects
+- 🔍 OSINT Automation Toolkit
+- 🛡 Malware Static Analysis Scripts
+- 🌐 Web Recon Framework
+
+
 
 <!---
 GitArya09/GitArya09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
