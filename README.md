@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Arya
 
 ## 👋 About Me
 - Cybersecurity professional focused on OSINT, malware analysis, and automation
